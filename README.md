@@ -8,7 +8,7 @@ A Software Engineer specializing in PHP, JavaScript technologies. Professional e
 
 I create tech content, mostly about Web Development and JavaScript, **but** I also talk about other topics than coding. I'd advise you to subscribe to stay up-to-date!
 
-I managed to create an online presence with my [Blog](https://shawn-crigger.xyz), which are accessed by more than 3500 people monthly. Looking forward to reaching and helping more people by sharing my knowledge.
+I managed to create an online presence with my [Blog](https://blog.shawn-crigger.com), which are accessed by more than 3500 people monthly. Looking forward to reaching and helping more people by sharing my knowledge.
 
 ---
 
