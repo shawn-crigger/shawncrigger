@@ -21,7 +21,7 @@ I managed to create an online presence with my [Blog](https://blog.shawn-crigger
 📘 Latest Blog Articles
 
 
-▶ [...more blog articles](https://shawncrigger.xyz)
+▶ [...more blog articles](https://blog.shawncrigger.com)
 
 ---
 
